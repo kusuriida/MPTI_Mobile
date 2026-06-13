@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\e1b6be4cb9036e5bbf2c9649af03049a\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Yuki\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\9e59b2ae466266026471ab7a3d2ff86f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\c0c72430c03b3ebd09df48b5a2c78e1d\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\d72359c16a9c0c80d1cd1b09279bd496\transformed\drawerlayout-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\9dff3780e5a795bd89ddf2c8f30ba0f5\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\3b276943c1074f6e583cb6da8d3ccbd6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Yuki\.gradle\caches\transforms-3\24a2cbe532209d55b3c9b7c577091320\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Yuki\.gradle\caches\transforms-3\b4a7f28467346bff9fd1634d2eeb9b9a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\9027ce44f613d33cbdd06654657dcffe\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\8e1eac7d4fc1d99bd6992764fd768883\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\1715058579735d412db73aefdcdc611f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\77408299a47296367a0ed087aa9e4590\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\e3d71497901308ced0680a2dae322725\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\fa0b272ef2f927d5ebcf4424742864aa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\972c8a28975dc14456a0c42b5f3792ca\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\969de948c2a544514f2376416451fd64\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\c417a0927437a8ee202bd6a14d4bfeb1\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd601cb1ecea929db542eca6e245848a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\d625d9f9e76f3f44d74e2a0bbb1ca0b0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\1d4d98ddcf7f9d82eb4c7cdd462f7a71\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\d4568a2f609a2e96dc5779a57ea70c9c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\0075616af5ec138f3227260a643aa313\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\724a6890a918ac79a69e93e66b5be121\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\fa4abefab170d14423d729f4252ac4fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\550693c50205d9023b74e090b0b85429\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\dd89bd6568e9c9565102b9acacd6782d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea84eaf0dffbf663abf685a3f324f0a1\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\55179a89f9a856d51c8ad8f78b7d5886\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\5cdc9de9c098e4d2fb2be20c66967c85\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\facff6f956300a5f91ecc2e01f83300a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\149c1846f5893420ead9d8769ee25f7b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea55b174aff318aa4660a47a3c1e539a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\eda855240390f7778f22783a2f46d941\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\05acc783731fdc7ad78103c0138901c4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd02cf92ee548b5222fa7bbe45a8803b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\e5bb4d506fbf257a1d9d1d14eab85940\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\311178abc96bb6335579a45553dfa4b1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Yuki\.gradle\caches\transforms-3\1822d56233532d5dd294d007810c690a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:4:5-30:19
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:4:5-30:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\e1b6be4cb9036e5bbf2c9649af03049a\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\e1b6be4cb9036e5bbf2c9649af03049a\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Yuki\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Yuki\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\facff6f956300a5f91ecc2e01f83300a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\facff6f956300a5f91ecc2e01f83300a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:8:9-46
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:9:9-44
+activity#com.lilaclab.dadimadu.activity.PengaturanActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:19-62
+activity#com.lilaclab.dadimadu.activity.LaporanActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:9-62
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:19-59
+activity#com.lilaclab.dadimadu.activity.PengeluaranActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:19-63
+activity#com.lilaclab.dadimadu.activity.PembelianActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:9-64
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:19-61
+activity#com.lilaclab.dadimadu.activity.PelangganActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:9-64
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:19-61
+activity#com.lilaclab.dadimadu.activity.TambahProdukActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:9-67
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:19-64
+activity#com.lilaclab.dadimadu.activity.ProdukActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:19-58
+activity#com.lilaclab.dadimadu.activity.DetailTransaksiActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:9-70
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:19-67
+activity#com.lilaclab.dadimadu.activity.TambahTransaksiActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:9-70
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:19-67
+activity#com.lilaclab.dadimadu.activity.TransaksiActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:9-64
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:19-61
+activity#com.lilaclab.dadimadu.activity.MainActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:19-56
+activity#com.lilaclab.dadimadu.activity.LoginActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:19-57
+activity#com.lilaclab.dadimadu.activity.SplashActivity
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:exported
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\e1b6be4cb9036e5bbf2c9649af03049a\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\e1b6be4cb9036e5bbf2c9649af03049a\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Yuki\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Yuki\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\9e59b2ae466266026471ab7a3d2ff86f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\9e59b2ae466266026471ab7a3d2ff86f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\c0c72430c03b3ebd09df48b5a2c78e1d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Yuki\.gradle\caches\transforms-3\c0c72430c03b3ebd09df48b5a2c78e1d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\d72359c16a9c0c80d1cd1b09279bd496\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\d72359c16a9c0c80d1cd1b09279bd496\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\9dff3780e5a795bd89ddf2c8f30ba0f5\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\9dff3780e5a795bd89ddf2c8f30ba0f5\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\3b276943c1074f6e583cb6da8d3ccbd6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\3b276943c1074f6e583cb6da8d3ccbd6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Yuki\.gradle\caches\transforms-3\24a2cbe532209d55b3c9b7c577091320\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Yuki\.gradle\caches\transforms-3\24a2cbe532209d55b3c9b7c577091320\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Yuki\.gradle\caches\transforms-3\b4a7f28467346bff9fd1634d2eeb9b9a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Yuki\.gradle\caches\transforms-3\b4a7f28467346bff9fd1634d2eeb9b9a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\9027ce44f613d33cbdd06654657dcffe\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\9027ce44f613d33cbdd06654657dcffe\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\8e1eac7d4fc1d99bd6992764fd768883\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\8e1eac7d4fc1d99bd6992764fd768883\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\1715058579735d412db73aefdcdc611f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\1715058579735d412db73aefdcdc611f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\77408299a47296367a0ed087aa9e4590\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\77408299a47296367a0ed087aa9e4590\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\e3d71497901308ced0680a2dae322725\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\e3d71497901308ced0680a2dae322725\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\fa0b272ef2f927d5ebcf4424742864aa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\fa0b272ef2f927d5ebcf4424742864aa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\972c8a28975dc14456a0c42b5f3792ca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\972c8a28975dc14456a0c42b5f3792ca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\969de948c2a544514f2376416451fd64\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\969de948c2a544514f2376416451fd64\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\c417a0927437a8ee202bd6a14d4bfeb1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\c417a0927437a8ee202bd6a14d4bfeb1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd601cb1ecea929db542eca6e245848a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd601cb1ecea929db542eca6e245848a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\d625d9f9e76f3f44d74e2a0bbb1ca0b0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\d625d9f9e76f3f44d74e2a0bbb1ca0b0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\1d4d98ddcf7f9d82eb4c7cdd462f7a71\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\1d4d98ddcf7f9d82eb4c7cdd462f7a71\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\d4568a2f609a2e96dc5779a57ea70c9c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\d4568a2f609a2e96dc5779a57ea70c9c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\0075616af5ec138f3227260a643aa313\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\0075616af5ec138f3227260a643aa313\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\724a6890a918ac79a69e93e66b5be121\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\724a6890a918ac79a69e93e66b5be121\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\fa4abefab170d14423d729f4252ac4fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\fa4abefab170d14423d729f4252ac4fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\550693c50205d9023b74e090b0b85429\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\550693c50205d9023b74e090b0b85429\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\dd89bd6568e9c9565102b9acacd6782d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\dd89bd6568e9c9565102b9acacd6782d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea84eaf0dffbf663abf685a3f324f0a1\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea84eaf0dffbf663abf685a3f324f0a1\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\55179a89f9a856d51c8ad8f78b7d5886\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Yuki\.gradle\caches\transforms-3\55179a89f9a856d51c8ad8f78b7d5886\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\5cdc9de9c098e4d2fb2be20c66967c85\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\5cdc9de9c098e4d2fb2be20c66967c85\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\facff6f956300a5f91ecc2e01f83300a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\facff6f956300a5f91ecc2e01f83300a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\149c1846f5893420ead9d8769ee25f7b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\149c1846f5893420ead9d8769ee25f7b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea55b174aff318aa4660a47a3c1e539a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Yuki\.gradle\caches\transforms-3\ea55b174aff318aa4660a47a3c1e539a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\eda855240390f7778f22783a2f46d941\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Yuki\.gradle\caches\transforms-3\eda855240390f7778f22783a2f46d941\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\05acc783731fdc7ad78103c0138901c4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\05acc783731fdc7ad78103c0138901c4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd02cf92ee548b5222fa7bbe45a8803b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\bd02cf92ee548b5222fa7bbe45a8803b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\e5bb4d506fbf257a1d9d1d14eab85940\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\e5bb4d506fbf257a1d9d1d14eab85940\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\311178abc96bb6335579a45553dfa4b1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuki\.gradle\caches\transforms-3\311178abc96bb6335579a45553dfa4b1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Yuki\.gradle\caches\transforms-3\1822d56233532d5dd294d007810c690a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Yuki\.gradle\caches\transforms-3\1822d56233532d5dd294d007810c690a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.lilaclab.dadimadu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.lilaclab.dadimadu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

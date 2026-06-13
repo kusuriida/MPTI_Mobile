@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.DadiMadu"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".activity.PengaturanActivity" />
+        <activity android:name=".activity.LaporanActivity" />
+        <activity android:name=".activity.PengeluaranActivity" />
+        <activity android:name=".activity.PembelianActivity" />
+        <activity android:name=".activity.PelangganActivity" />
+        <activity android:name=".activity.TambahProdukActivity" />
+        <activity android:name=".activity.ProdukActivity" />
+        <activity android:name=".activity.DetailTransaksiActivity" />
+        <activity android:name=".activity.TambahTransaksiActivity" />
+        <activity android:name=".activity.TransaksiActivity" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity
+            android:name=".activity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

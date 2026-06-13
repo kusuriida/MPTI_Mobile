@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber">#F6B73C</color>
+    <color name="amber_dark">#B97416</color>
+    <color name="border">#DDE7DD</color>
+    <color name="brown">#285C4D</color>
+    <color name="cream">#F7FAF4</color>
+    <color name="cream_dark">#E8F1E3</color>
+    <color name="danger">#EF4444</color>
+    <color name="danger_soft">#FEE2E2</color>
+    <color name="input_text">#24352F</color>
+    <color name="success">#2F9B72</color>
+    <color name="text_main">#20352E</color>
+    <color name="text_muted">#6F8178</color>
+    <color name="warning_soft">#FEF3C7</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Dadi Madu</string>
+    <style name="DrawerMenuText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingHorizontal">12dp</item>
+        <item name="android:textColor">@color/text_main</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@drawable/bg_button_outline</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+    <style name="Theme.DadiMadu" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/amber</item>
+        <item name="colorPrimaryVariant">@color/amber_dark</item>
+        <item name="colorSecondary">@color/brown</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/brown</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+</resources>
