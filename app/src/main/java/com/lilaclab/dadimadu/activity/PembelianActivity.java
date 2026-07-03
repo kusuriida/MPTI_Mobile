@@ -2,6 +2,7 @@ package com.lilaclab.dadimadu.activity;
 
 import android.content.Context;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.LinearLayout;
@@ -72,11 +73,17 @@ extends BaseListActivity {
         Spinner spinnerProduk = new Spinner((Context)this);
         ArrayList<String> names = new ArrayList<String>();
         for (Produk produk : products) {
-            names.add(produk.namaProduk + " - " + produk.ukuranKemasan);
+            names.add(this.titleCase(produk.namaProduk) + " - " + produk.ukuranKemasan);
         }
         ArrayAdapter productAdapter = new ArrayAdapter((Context)this, R.layout.item_spinner_text, names);
         productAdapter.setDropDownViewResource(R.layout.item_spinner_text);
         spinnerProduk.setAdapter((SpinnerAdapter)productAdapter);
+        spinnerProduk.setBackgroundResource(R.drawable.bg_spinner);
+        spinnerProduk.setPopupBackgroundResource(R.color.cream);
+        spinnerProduk.setPadding(this.dp(12), 0, this.dp(36), 0);
+        LinearLayout.LayoutParams spinnerParams = new LinearLayout.LayoutParams(-1, this.dp(50));
+        spinnerParams.setMargins(0, 0, 0, this.dp(10));
+        spinnerProduk.setLayoutParams((ViewGroup.LayoutParams)spinnerParams);
         EditText tanggal = this.input("Tanggal yyyy-MM-dd");
         tanggal.setText((CharSequence)FormatHelper.today());
         EditText supplier = this.input("Supplier");
@@ -127,5 +134,16 @@ extends BaseListActivity {
 
     private String safe(String value) {
         return value == null || value.trim().isEmpty() ? "-" : value;
+    }
+
+    private String titleCase(String value) {
+        String[] words = this.safe(value).toLowerCase().split(" ");
+        StringBuilder result = new StringBuilder();
+        for (String word : words) {
+            if (word.isEmpty()) continue;
+            if (result.length() > 0) result.append(' ');
+            result.append(Character.toUpperCase(word.charAt(0))).append(word.substring(1));
+        }
+        return result.toString();
     }
 }

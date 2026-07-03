@@ -76,9 +76,9 @@ extends BaseListActivity {
         ArrayAdapter adapter = new ArrayAdapter((Context)this, R.layout.item_spinner_text, (Object[])new String[]{"Botol", "Label", "Segel", "Madu"});
         adapter.setDropDownViewResource(R.layout.item_spinner_text);
         kategori.setAdapter((SpinnerAdapter)adapter);
-        kategori.setBackgroundResource(R.drawable.bg_input);
-        kategori.setPopupBackgroundResource(R.color.white);
-        kategori.setPadding(this.dp(12), 0, this.dp(12), 0);
+        kategori.setBackgroundResource(R.drawable.bg_spinner);
+        kategori.setPopupBackgroundResource(R.color.cream);
+        kategori.setPadding(this.dp(12), 0, this.dp(36), 0);
         LinearLayout.LayoutParams spinnerParams = new LinearLayout.LayoutParams(-1, this.dp(50));
         spinnerParams.setMargins(0, 0, 0, this.dp(10));
         kategori.setLayoutParams((ViewGroup.LayoutParams)spinnerParams);

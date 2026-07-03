@@ -19,7 +19,7 @@
             android:layout_height="42dp"
             android:background="@drawable/bg_topbar_button"
             android:gravity="center"
-            android:text="&lt;"
+            android:text="&#8249;"
             android:textColor="@color/brown"
             android:textSize="28sp"
             android:textStyle="bold" />
@@ -110,9 +110,10 @@
                             android:layout_width="match_parent"
                             android:layout_height="50dp"
                             android:layout_marginTop="6dp"
-                            android:background="@drawable/bg_input"
-                            android:popupBackground="@color/white"
-                            android:paddingHorizontal="8dp"
+                            android:background="@drawable/bg_spinner"
+                            android:popupBackground="@color/cream"
+                            android:paddingStart="12dp"
+                            android:paddingEnd="36dp"
                             android:spinnerMode="dropdown" />
                     </LinearLayout>
 
@@ -136,9 +137,10 @@
                             android:layout_width="match_parent"
                             android:layout_height="50dp"
                             android:layout_marginTop="6dp"
-                            android:background="@drawable/bg_input"
-                            android:popupBackground="@color/white"
-                            android:paddingHorizontal="8dp"
+                            android:background="@drawable/bg_spinner"
+                            android:popupBackground="@color/cream"
+                            android:paddingStart="12dp"
+                            android:paddingEnd="36dp"
                             android:spinnerMode="dropdown" />
                     </LinearLayout>
                 </LinearLayout>

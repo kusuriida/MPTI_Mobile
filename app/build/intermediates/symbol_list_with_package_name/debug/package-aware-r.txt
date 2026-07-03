@@ -2934,6 +2934,7 @@ drawable bg_logo_circle
 drawable bg_logout
 drawable bg_menu_icon
 drawable bg_search
+drawable bg_spinner
 drawable bg_topbar
 drawable bg_topbar_button
 drawable bg_warning_card
@@ -2951,6 +2952,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_arrow_back_black_24
+drawable ic_arrow_down
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -2964,6 +2966,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable logo_dm
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3138,11 +3141,13 @@ id bounceEnd
 id bounceStart
 id btnAction
 id btnBack
+id btnBackupData
 id btnBatal
 id btnCetak
 id btnDetail
 id btnEdit
 id btnHapus
+id btnImportData
 id btnLogin
 id btnLogout
 id btnMenu

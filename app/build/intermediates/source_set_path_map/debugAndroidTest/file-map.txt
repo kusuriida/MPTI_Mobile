@@ -1,0 +1,4 @@
+com.lilaclab.dadimadu.test.app-androidTest-0 C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\build\generated\res\resValues\androidTest\debug
+com.lilaclab.dadimadu.test.app-mergeDebugAndroidTestResources-1 C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.lilaclab.dadimadu.test.app-mergeDebugAndroidTestResources-2 C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.lilaclab.dadimadu.test.app-merged_res-3 C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\build\intermediates\merged_res\debugAndroidTest

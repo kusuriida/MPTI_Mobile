@@ -31,95 +31,94 @@
 22-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:6:9-45
 23        android:label="@string/app_name"
 23-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:7:9-41
-24        android:testOnly="true"
-25        android:theme="@style/Theme.DadiMadu"
-25-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:8:9-46
-26        android:usesCleartextTraffic="true" >
-26-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:9:9-44
-27        <activity android:name="com.lilaclab.dadimadu.activity.PengaturanActivity" />
-27-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:9-65
-27-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:19-62
-28        <activity android:name="com.lilaclab.dadimadu.activity.LaporanActivity" />
-28-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:9-62
-28-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:19-59
-29        <activity android:name="com.lilaclab.dadimadu.activity.PengeluaranActivity" />
-29-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:9-66
-29-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:19-63
-30        <activity android:name="com.lilaclab.dadimadu.activity.PembelianActivity" />
-30-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:9-64
-30-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:19-61
-31        <activity android:name="com.lilaclab.dadimadu.activity.PelangganActivity" />
-31-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:9-64
-31-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:19-61
-32        <activity android:name="com.lilaclab.dadimadu.activity.TambahProdukActivity" />
-32-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:9-67
-32-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:19-64
-33        <activity android:name="com.lilaclab.dadimadu.activity.ProdukActivity" />
-33-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:9-61
-33-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:19-58
-34        <activity android:name="com.lilaclab.dadimadu.activity.DetailTransaksiActivity" />
-34-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:9-70
-34-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:19-67
-35        <activity android:name="com.lilaclab.dadimadu.activity.TambahTransaksiActivity" />
-35-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:9-70
-35-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:19-67
-36        <activity android:name="com.lilaclab.dadimadu.activity.TransaksiActivity" />
-36-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:9-64
-36-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:19-61
-37        <activity android:name="com.lilaclab.dadimadu.activity.MainActivity" />
-37-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:9-59
-37-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:19-56
-38        <activity android:name="com.lilaclab.dadimadu.activity.LoginActivity" />
-38-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:9-60
-38-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:19-57
-39        <activity
-39-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:22:9-29:20
-40            android:name="com.lilaclab.dadimadu.activity.SplashActivity"
-40-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:23:13-52
-41            android:exported="true" >
-41-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:24:13-36
-42            <intent-filter>
-42-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:25:13-28:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:17-69
-43-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:17-77
-45-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:27-74
-46            </intent-filter>
-47        </activity>
-48
-49        <service
-49-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
-50            android:name="androidx.room.MultiInstanceInvalidationService"
-50-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
-51            android:directBootAware="true"
-51-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
-52            android:exported="false" />
-52-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
-53
-54        <provider
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-55            android:name="androidx.startup.InitializationProvider"
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-56            android:authorities="com.lilaclab.dadimadu.androidx-startup"
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-57            android:exported="false" >
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-58            <meta-data
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-60                android:value="androidx.startup" />
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-61            <meta-data
-61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-63                android:value="androidx.startup" />
-63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-64        </provider>
-65    </application>
-66
-67</manifest>
+24        android:theme="@style/Theme.DadiMadu"
+24-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:8:9-46
+25        android:usesCleartextTraffic="true" >
+25-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:9:9-44
+26        <activity android:name="com.lilaclab.dadimadu.activity.PengaturanActivity" />
+26-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:9-65
+26-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:10:19-62
+27        <activity android:name="com.lilaclab.dadimadu.activity.LaporanActivity" />
+27-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:9-62
+27-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:11:19-59
+28        <activity android:name="com.lilaclab.dadimadu.activity.PengeluaranActivity" />
+28-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:9-66
+28-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:12:19-63
+29        <activity android:name="com.lilaclab.dadimadu.activity.PembelianActivity" />
+29-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:9-64
+29-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:13:19-61
+30        <activity android:name="com.lilaclab.dadimadu.activity.PelangganActivity" />
+30-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:9-64
+30-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:14:19-61
+31        <activity android:name="com.lilaclab.dadimadu.activity.TambahProdukActivity" />
+31-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:9-67
+31-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:15:19-64
+32        <activity android:name="com.lilaclab.dadimadu.activity.ProdukActivity" />
+32-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:9-61
+32-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:16:19-58
+33        <activity android:name="com.lilaclab.dadimadu.activity.DetailTransaksiActivity" />
+33-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:9-70
+33-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:17:19-67
+34        <activity android:name="com.lilaclab.dadimadu.activity.TambahTransaksiActivity" />
+34-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:9-70
+34-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:18:19-67
+35        <activity android:name="com.lilaclab.dadimadu.activity.TransaksiActivity" />
+35-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:9-64
+35-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:19:19-61
+36        <activity android:name="com.lilaclab.dadimadu.activity.MainActivity" />
+36-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:9-59
+36-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:20:19-56
+37        <activity android:name="com.lilaclab.dadimadu.activity.LoginActivity" />
+37-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:9-60
+37-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:21:19-57
+38        <activity
+38-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:22:9-29:20
+39            android:name="com.lilaclab.dadimadu.activity.SplashActivity"
+39-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:23:13-52
+40            android:exported="true" >
+40-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:24:13-36
+41            <intent-filter>
+41-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:25:13-28:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:17-69
+42-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:26:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:17-77
+44-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:27:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <service
+48-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+49            android:name="androidx.room.MultiInstanceInvalidationService"
+49-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+50            android:directBootAware="true"
+50-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+51            android:exported="false" />
+51-->[androidx.room:room-runtime:2.5.2] C:\Users\Yuki\.gradle\caches\transforms-3\04554609c2214334aa6b43529fbba918\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.lilaclab.dadimadu.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Yuki\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Yuki\.gradle\caches\transforms-3\a2d0c4ca2e749b8616b1f830e77935c1\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

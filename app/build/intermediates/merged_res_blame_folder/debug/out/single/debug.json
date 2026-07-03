@@ -16,6 +16,10 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_button_outline.xml"
     },
     {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_spinner.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_spinner.xml"
+    },
+    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_chip_cream.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_chip_cream.xml"
     },
@@ -36,12 +40,12 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_button_amber.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_amber.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_amber.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_simple_list.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_simple_list.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_amber.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_amber.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_logo_circle.xml.flat",
@@ -50,6 +54,10 @@
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_drawer_header.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_logo_dm.png.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/logo_dm.png"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_warning_card.xml.flat",
@@ -146,6 +154,10 @@
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_laporan.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_laporan.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/ic_arrow_down.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_input.xml.flat",
