@@ -27,8 +27,8 @@
 19-->[androidx.core:core:1.9.0] C:\Users\Yuki\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
-22        android:icon="@drawable/ic_launcher"
-22-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:6:9-45
+22        android:icon="@drawable/logo_dm"
+22-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:6:9-41
 23        android:label="@string/app_name"
 23-->C:\Users\Yuki\Documents\MPTI\MPTI_Mobile\app\src\main\AndroidManifest.xml:7:9-41
 24        android:theme="@style/Theme.DadiMadu"

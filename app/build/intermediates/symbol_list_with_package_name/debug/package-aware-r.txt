@@ -2935,6 +2935,7 @@ drawable bg_logout
 drawable bg_menu_icon
 drawable bg_search
 drawable bg_spinner
+drawable bg_stock_adjust
 drawable bg_topbar
 drawable bg_topbar_button
 drawable bg_warning_card
@@ -2953,6 +2954,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_arrow_back_black_24
 drawable ic_arrow_down
+drawable ic_back_24
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -3155,8 +3157,6 @@ id btnMinus
 id btnPlus
 id btnSimpan
 id btnSimpanPengaturan
-id btnStokMinus
-id btnStokPlus
 id btnTambah
 id btnTambahProdukTop
 id btnTampilkanLaporan
@@ -3251,6 +3251,7 @@ id edtNoHp
 id edtNoTelepon
 id edtOngkir
 id edtPassword
+id edtSearch
 id edtStok
 id edtTanggal
 id edtUkuran
@@ -3600,7 +3601,6 @@ id txtQty
 id txtRingkasan
 id txtStatus
 id txtStok
-id txtStokInline
 id txtSubtotal
 id txtTanggal
 id txtTitle

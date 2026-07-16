@@ -60,7 +60,6 @@ public class ProdukAdapter extends RecyclerView.Adapter<ProdukAdapter.ViewHolder
         holder.txtHargaProduk.setText("Harga jual  : " + FormatHelper.rupiah(produk.hargaJual));
         holder.txtModalProduk.setText("Modal       : " + FormatHelper.rupiah(produk.hargaModal) + "  |  Margin: " + FormatHelper.rupiah(produk.hargaJual - produk.hargaModal));
         holder.txtStok.setText("Stok: " + produk.stok + "  |  Min: " + produk.minimumStok);
-        holder.txtStokInline.setText("Stok: " + produk.stok);
         if ("habis".equals(produk.statusStok())) {
             holder.txtStok.setBackgroundResource(R.drawable.bg_badge_red);
             holder.txtStok.setTextColor(0xff991b1b);
@@ -73,8 +72,6 @@ public class ProdukAdapter extends RecyclerView.Adapter<ProdukAdapter.ViewHolder
         }
         holder.btnEdit.setOnClickListener(v -> listener.onEdit(produk));
         holder.btnHapus.setOnClickListener(v -> listener.onDelete(produk));
-        holder.btnStokMinus.setOnClickListener(v -> listener.onStokChange(produk, -1));
-        holder.btnStokPlus.setOnClickListener(v -> listener.onStokChange(produk, 1));
     }
 
     @Override
@@ -88,10 +85,7 @@ public class ProdukAdapter extends RecyclerView.Adapter<ProdukAdapter.ViewHolder
         TextView txtHargaProduk;
         TextView txtModalProduk;
         TextView txtStok;
-        TextView txtStokInline;
         TextView btnEdit;
-        TextView btnStokMinus;
-        TextView btnStokPlus;
         TextView btnHapus;
 
         ViewHolder(@NonNull View itemView) {
@@ -101,10 +95,7 @@ public class ProdukAdapter extends RecyclerView.Adapter<ProdukAdapter.ViewHolder
             txtHargaProduk = itemView.findViewById(R.id.txtHargaProduk);
             txtModalProduk = itemView.findViewById(R.id.txtModalProduk);
             txtStok = itemView.findViewById(R.id.txtStok);
-            txtStokInline = itemView.findViewById(R.id.txtStokInline);
             btnEdit = itemView.findViewById(R.id.btnEdit);
-            btnStokMinus = itemView.findViewById(R.id.btnStokMinus);
-            btnStokPlus = itemView.findViewById(R.id.btnStokPlus);
             btnHapus = itemView.findViewById(R.id.btnHapus);
         }
     }

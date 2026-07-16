@@ -113,9 +113,19 @@ extends AppCompatActivity {
                 ArrayAdapter<String> nameAdapter = new ArrayAdapter<String>((Context)this, android.R.layout.simple_dropdown_item_1line, names);
                 this.edtNamaPelanggan.setAdapter(nameAdapter);
                 this.edtNamaPelanggan.setThreshold(1);
+                this.edtNamaPelanggan.setOnItemClickListener((parent, view, position, id) -> this.fillNoHp(parent.getItemAtPosition(position).toString(), pelanggan));
                 this.updateTotal();
             });
         });
+    }
+
+    private void fillNoHp(String nama, List<Pelanggan> pelanggan) {
+        for (Pelanggan item : pelanggan) {
+            if (item.namaPelanggan.equals(nama)) {
+                this.edtNoHp.setText((CharSequence)(item.noHp == null ? "" : item.noHp));
+                return;
+            }
+        }
     }
 
     private void updateTotal() {

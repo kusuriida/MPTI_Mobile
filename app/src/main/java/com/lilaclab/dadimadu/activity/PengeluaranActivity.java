@@ -54,7 +54,7 @@ extends BaseListActivity {
             return;
         }
         for (Pengeluaran item : items) {
-            TextView card = this.addCard(item.kategori + " | " + FormatHelper.rupiah((double)item.jumlahPengeluaran), FormatHelper.tanggalIndo((String)item.tanggal) + "\n\n" + item.keterangan + "\n\n🗑  Hapus");
+            TextView card = this.addCard(item.kategori + " | " + FormatHelper.rupiah((double)item.jumlahPengeluaran), "Tanggal : " + FormatHelper.tanggalIndo((String)item.tanggal) + "\n------------------------------\nKeterangan : " + this.safe(item.keterangan) + "\n------------------------------\nHapus");
             card.setOnClickListener(v -> this.confirmDelete(item));
         }
     }
@@ -121,4 +121,9 @@ extends BaseListActivity {
             this.runOnUiThread(() -> this.loadItems());
         })).show();
     }
+
+    private String safe(String value) {
+        return value == null || value.trim().isEmpty() ? "-" : value;
+    }
 }
+

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_item_produk_pilih.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/item_produk_pilih.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_menu_icon.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_menu_icon.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_logout.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_logout.xml"
     },
@@ -16,28 +8,12 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_button_outline.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_spinner.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_spinner.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_chip_cream.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_chip_cream.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_red.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_red.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_topbar.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_topbar.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_fab_amber.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_fab_amber.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_button_amber.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_button_amber.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_simple_list.xml.flat",
@@ -48,20 +24,8 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_amber.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_logo_circle.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_logo_circle.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_drawer_header.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/drawer_header.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_logo_dm.png.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/logo_dm.png"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_warning_card.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_warning_card.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_pengaturan.xml.flat",
@@ -70,10 +34,6 @@
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_tambah_produk.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_tambah_produk.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_action_danger.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_action_danger.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_dialog_body.xml.flat",
@@ -88,28 +48,20 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_drawer_header.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_green.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_green.xml"
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_ic_back_24.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/ic_back_24.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_topbar_button.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_topbar_button.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_splash.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_splash.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_item_spinner_text.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/item_spinner_text.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_action_small.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_action_small.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_cream_card.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_cream_card.xml"
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_stock_adjust.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_stock_adjust.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_ic_launcher.xml.flat",
@@ -124,18 +76,6 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/menu/drawer_menu.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_banner.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_banner.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_transaksi.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_transaksi.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_item_transaksi.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/item_transaksi.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_detail_transaksi.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_detail_transaksi.xml"
     },
@@ -144,16 +84,8 @@
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_card.xml"
     },
     {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_produk.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_produk.xml"
-    },
-    {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_main.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_laporan.xml.flat",
-        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_laporan.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_ic_arrow_down.xml.flat",
@@ -166,6 +98,82 @@
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_login_panel.xml.flat",
         "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_login_panel.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_item_produk_pilih.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/item_produk_pilih.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_menu_icon.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_menu_icon.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_spinner.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_spinner.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_red.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_red.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_fab_amber.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_fab_amber.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_button_amber.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_button_amber.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_logo_circle.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_logo_circle.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_logo_dm.png.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/logo_dm.png"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_warning_card.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_warning_card.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_action_danger.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_action_danger.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_badge_green.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_badge_green.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_action_small.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_action_small.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_cream_card.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_cream_card.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/drawable_bg_banner.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/drawable/bg_banner.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_transaksi.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_transaksi.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_item_transaksi.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/item_transaksi.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_produk.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_produk.xml"
+    },
+    {
+        "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_laporan.xml.flat",
+        "source": "com.lilaclab.dadimadu.app-main-33:/layout/activity_laporan.xml"
     },
     {
         "merged": "com.lilaclab.dadimadu.app-merged_res-31:/layout_activity_login.xml.flat",

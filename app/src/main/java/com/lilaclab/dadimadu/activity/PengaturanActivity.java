@@ -112,7 +112,7 @@ extends AppCompatActivity {
         this.userContainer.addView((View)title);
         for (User user : users) {
             TextView card = new TextView((Context)this);
-            card.setText((CharSequence)(user.nama + "\n\nUsername : " + user.username + "\nRole     : " + user.role));
+            card.setText((CharSequence)(user.nama + "\n------------------------------\nUsername : " + user.username + "\nRole     : " + user.role));
             card.setTextColor(this.getResources().getColor(R.color.text_main));
             card.setTextSize(14.0f);
             card.setLineSpacing((float)this.dp(4), 1.0f);

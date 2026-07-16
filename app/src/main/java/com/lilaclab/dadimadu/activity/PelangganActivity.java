@@ -1,6 +1,9 @@
 package com.lilaclab.dadimadu.activity;
 
 import android.content.Context;
+import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.LinearLayout;
@@ -14,6 +17,22 @@ import java.util.List;
 
 public class PelangganActivity
 extends BaseListActivity {
+    private EditText edtSearch;
+
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        this.edtSearch = (EditText)this.findViewById(com.lilaclab.dadimadu.R.id.edtSearch);
+        this.edtSearch.setHint((CharSequence)"Cari pelanggan...");
+        this.edtSearch.setVisibility(View.VISIBLE);
+        this.edtSearch.addTextChangedListener(new TextWatcher() {
+            @Override public void beforeTextChanged(CharSequence s, int start, int count, int after) {}
+            @Override public void onTextChanged(CharSequence s, int start, int before, int count) {}
+            @Override public void afterTextChanged(Editable s) {
+                PelangganActivity.this.searchItems(s.toString());
+            }
+        });
+    }
+
     protected String title() {
         return "Pelanggan";
     }
@@ -31,8 +50,20 @@ extends BaseListActivity {
     }
 
     protected void loadItems() {
+        String keyword = this.edtSearch == null ? "" : this.edtSearch.getText().toString();
+        if (!keyword.trim().isEmpty()) {
+            this.searchItems(keyword);
+            return;
+        }
         AppDatabase.databaseWriteExecutor.execute(() -> {
             List items = this.db.pelangganDao().getAll();
+            this.runOnUiThread(() -> this.render(items));
+        });
+    }
+
+    private void searchItems(String keyword) {
+        AppDatabase.databaseWriteExecutor.execute(() -> {
+            List items = keyword.trim().isEmpty() ? this.db.pelangganDao().getAll() : this.db.pelangganDao().search(keyword.trim());
             this.runOnUiThread(() -> this.render(items));
         });
     }

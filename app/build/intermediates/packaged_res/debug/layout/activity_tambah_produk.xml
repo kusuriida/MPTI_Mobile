@@ -13,16 +13,15 @@
         android:orientation="horizontal"
         android:paddingHorizontal="16dp">
 
-        <TextView
+        <ImageView
             android:id="@+id/btnBack"
             android:layout_width="42dp"
             android:layout_height="42dp"
             android:background="@drawable/bg_topbar_button"
-            android:gravity="center"
-            android:text="&#8249;"
-            android:textColor="@color/brown"
-            android:textSize="20sp"
-            android:textStyle="bold" />
+            android:contentDescription="Kembali"
+            android:padding="10dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_back_24" />
 
         <TextView
             android:id="@+id/txtTitle"
@@ -96,8 +95,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_marginTop="6dp"
-                    android:background="@drawable/bg_input"
-                    android:paddingHorizontal="12dp" />
+                    android:background="@drawable/bg_spinner"
+                    android:paddingStart="14dp"
+                    android:paddingEnd="36dp"
+                    android:popupBackground="@color/cream" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -261,3 +262,4 @@
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
+
